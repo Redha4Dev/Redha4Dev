@@ -1,42 +1,70 @@
 <h1 align="center">Hey, I'm Redha 👋</h1>
 
 <p align="center">
-  🧠 AI-Powered Web Developer • ⚛️ React & Next.js Enthusiast • 🎨 Clean UI Lover
+  🚀 Frontend Developer • 🧠 AI & Mobile Enthusiast • 🎨 Passionate About Clean UI & Modern Products
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 I'm a Computer Science student from Algeria 🇩🇿
-- 🚀 I build modern web apps using **Next.js**, **React**, **Tailwind CSS**, and **ShadCN**
-- 🧠 I integrate **AI-powered experiences** using tools like **Vapi**, **OpenAI**, and **Clerk**
-- 🧱 I use **Supabase**, **Firebase**, and **Node.js** for backend and data
-- 🎯 Passionate about creating **SaaS platforms**, **chatbots**, and **educational tools**
-- 🌍 I love contributing to **community-based** or **social-good** projects
+- 🇩🇿 Computer Science student from Algeria  
+- ⚛️ I specialize in **React**, **Next.js**, and **React Native (Expo)**  
+- 📱 I build full mobile + web platforms, especially **social**, **community**, and **real-world problem–solving apps**  
+- 🤖 Passionate about integrating **AI** (chatbots, recommendation systems, assistants)  
+- 🛠️ I use **Express.js**, **MongoDB**, **PostgreSQL**, **Prisma**
+- 💡 I love designing **simple, clean, minimal UI** experiences  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,shadcn,vercel,html,css,nodejs,express,firebase,supabase,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,reactnative,expo,tailwind,prisma,postgres,mongodb,nodejs,express,html,css,github,git,vercel" />
 </p>
 
 ---
 
-### 🚀 Projects I'm Proud Of
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **AI Teacher SaaS App** | Platform where users can learn through **AI-powered conversation** with speech features | Next.js, Vapi, Clerk, Supabase |
-| **Nursery Admin Panel** | A full dashboard for managing children, teachers, fees, attendance, and announcements | React, Express.js, Tailwind CSS |
+### 🌾 **AgroConnect – Farmer ↔ Client Marketplace**
+A cross-platform mobile & web platform connecting farmers directly with clients.  
+Includes posts, chat, a recommendation engine with a custom-trained ML model, and a clean UI optimized for low-bandwidth regions.
+
+**Tech:**  
+**Expo React Native**, **Next.js**, **Express.js**, **MongoDB**, **Custom AI Model**, **Socket.io**, **Tailwind CSS**
+
 ---
 
-### 📈 GitHub Stats
+### ♻️ **Wasto – Waste Recycling & Exchange Platform**
+A system that helps people **sell, recycle, or exchange waste** with others who need it.  
+Includes authentication, profiles, product listing, chat, and map-based pickup locations.
+
+**Tech:**  
+**Expo React Native**, **Next.js**, **Express.js**, **PostgreSQL**, **Prisma**, **Tailwind**, **Cloud Storage**
+
+---
+
+### 👶 **Nursery Admin Panel**
+A complete web dashboard to manage children, teachers, classes, attendance, fees, and announcements.
+
+**Tech:**  
+**React**, **Express.js**, **MongoDB**, **Tailwind CSS**
+
+---
+
+### 🧠 **AI Teacher – Voice-Based AI Learning Platform**
+A learning platform where users interact with AI tutors through **voice conversation**.
+
+**Tech:**  
+**Next.js**, **OpenAI**, **Vapi**, **Clerk**, **Supabase**
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Redha4Dev&show_icons=true&theme=radical" alt="Redha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Redha4Dev&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
@@ -45,9 +73,9 @@
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/khatir-redha-a1b5a7338/" target="_blank">LinkedIn</a> •
   <a href="mailto:r.khatir@esi-sba.dz">Email</a>
 </p>
