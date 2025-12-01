@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Redha 👋</h1>
 
 <p align="center">
-  🚀 Frontend Developer • 🧠 AI & Mobile Enthusiast • 🎨 Passionate About Clean UI & Modern Products
+  🚀 Full-Stack Developer • 🧠 AI & Cloud Enthusiast • 🎨 Passionate About Clean UI & Modern Products
 </p>
 
 ---
